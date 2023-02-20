@@ -1,1 +1,2 @@
 # odin-recipes
+This project focused on creating a basic website which contained links to 3 pages, each containing an individual recipe. To create each recipe page, I sourced images, and made sure to use appropriate sized headings and paragraphs where needed to describe the recipe. I also focused on creating lists, both ordered and unordered, to list both the ingredients and the steps required to prepare the recipe. I added in nested lists where appropriate, and changed basic styling of the lists using the "type" attribute (ex: Roman numerals). 
